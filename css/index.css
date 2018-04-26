@@ -1,0 +1,13 @@
+html, body{Height:100%;margin:0;}
+header{height:5%;}
+section{height:70%; background-color:grey;}
+footer{height:15% ;background-color:tan;}
+.pg1{font-size:36px;font-family:impact;}
+#cup{height:10%;}
+nav{
+    height:10%;
+}
+.pg2{font-size:14px;}
+#bt1{
+    width:100%;
+}
